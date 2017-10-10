@@ -1,0 +1,51 @@
+size,region,number,year,regionnum
+Half,very cold,0.2,2015,5
+Half,mixed-humid,0.3,2015,2
+Half,mixed-dry,,2015,1
+Half,hot-humid,0.2,2015,4
+Half,marine,,2015,3
+Large,very cold,16.9,2015,5
+Large,mixed-humid,14.7,2015,2
+Large,mixed-dry,5.1,2015,1
+Large,hot-humid,9.6,2015,4
+Large,marine,2.5,2015,3
+Medium,very cold,22.2,2015,5
+Medium,mixed-humid,16,2015,2
+Medium,mixed-dry,6.5,2015,1
+Medium,hot-humid,11,2015,4
+Medium,marine,3.5,2015,3
+Small ,very cold,2.4,2015,5
+Small ,mixed-humid,1.9,2015,2
+Small ,mixed-dry,0.9,2015,1
+Small ,hot-humid,1.2,2015,4
+Small ,marine,0.4,2015,3
+Very large ,very cold,0.5,2015,5
+Very large ,mixed-humid,0.5,2015,2
+Very large ,mixed-dry,0.2,2015,1
+Very large ,hot-humid,0.4,2015,4
+Very large ,marine,,2015,3
+Half,very cold,0.4,2009,5
+Half,mixed-humid,0.2,2009,2
+Half,mixed-dry,,2009,1
+Half,hot-humid,0.2,2009,4
+Half,marine,0.1,2009,3
+Large,very cold,16.0,2009,5
+Large,mixed-humid,15.6,2009,2
+Large,mixed-dry,6.0,2009,1
+Large,hot-humid,7.8,2009,4
+Large,marine,2.5,2009,3
+Medium,very cold,18.3,2009,5
+Medium,mixed-humid,15.8,2009,2
+Medium,mixed-dry,6.4,2009,1
+Medium,hot-humid,8.5,2009,4
+Medium,marine,2.8,2009,3
+Small ,very cold,1.4,2009,5
+Small ,mixed-humid,1.2,2009,2
+Small ,mixed-dry,0.5,2009,1
+Small ,hot-humid,0.9,2009,4
+Small ,marine,0.2,2009,3
+Very large ,very cold,2.7,2009,5
+Very large ,mixed-humid,2.6,2009,2
+Very large ,mixed-dry,1.1,2009,1
+Very large ,hot-humid,1.7,2009,4
+Very large ,marine,0.6,2009,3
